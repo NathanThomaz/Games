@@ -1,0 +1,25 @@
+# Repositório de Jogos
+
+Bem-vindo ao repositório **Jogos**, onde serão armazenados todos os jogos criados a partir do zero. Este repositório contém uma coleção de projetos de jogos desenvolvidos para demonstrar habilidades em programação, design de jogos e desenvolvimento de software.
+
+## Índice
+
+- [Descrição](#descrição)
+- [Como Começar](#como-começar)
+- [Tecnologias Utilizadas](#tecnologias-utilizadas)
+- [Estrutura do Projeto](#estrutura-do-projeto)
+- [Contribuição](#contribuição)
+- [Licença](#licença)
+
+## Descrição
+
+Este repositório é dedicado ao desenvolvimento e armazenamento de jogos criados desde o início. Cada projeto é uma oportunidade para explorar novas ideias, técnicas e melhorar as habilidades de desenvolvimento.
+
+## Como Começar
+
+Para começar a usar ou contribuir para este repositório, siga estes passos:
+
+1. **Clonar o Repositório**
+
+   ```bash
+   git clone https://github.com/NathanThomaz/Games.git
