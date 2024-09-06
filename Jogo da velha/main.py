@@ -45,8 +45,6 @@ def jogar(jogador):
         except ValueError:
             print("Entrada inválida. Digite um número entre 1 e 9.")
 
-
-
 def jogo_da_velha():
     jogadores = ["X", "O"]
     vencedor = None
