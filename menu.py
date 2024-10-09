@@ -11,15 +11,15 @@ def obter_caminho_relativo(arquivo):
     return os.path.join(os.path.dirname(__file__), arquivo)
 
 def jogar_da_velha():
-    caminho = obter_caminho_relativo("Jogo da velha/main.py")
+    caminho = obter_caminho_relativo("Jogos/Jogo da velha/main.py")
     subprocess.run(["python", caminho])
 
 def jogar_xadrez():
-    caminho = obter_caminho_relativo("Xadrez/main.py")
+    caminho = obter_caminho_relativo("Jogos/Xadrez/main.py")
     subprocess.run(["python", caminho])
 
 def jogar_forca():
-    caminho = obter_caminho_relativo("Forca/main.py")
+    caminho = obter_caminho_relativo("Jogos/Forca/main.py")
     subprocess.run(["python", caminho])
 
 
