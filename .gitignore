@@ -1,0 +1,33 @@
+# Ambientes virtuais
+.venv/
+venv/
+
+# Bytecode Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Configurações do VSCode
+.vscode/
+
+# Arquivos de log
+*.log
+
+# Arquivos temporários
+*.tmp
+*.swp
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de testes
+.coverage
+htmlcov/
+.tox/
+.pytest_cache/
+
+# Dependências
+*.egg-info/
+dist/
+build/
